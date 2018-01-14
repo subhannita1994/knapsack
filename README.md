@@ -1,4 +1,4 @@
-# knapsack
+# knapsack genetic algorithm
 
  Python implementation of Genetic algorithm for knapsack problem
 
